@@ -1,0 +1,49 @@
+25220   Fiona
+IR101   68.3   IR102   75.6   Aggregate   71.9
+Class:  1.0    Outcome:  Proceed to Stage 2
+-----------------------------------------------
+
+25212   Greg
+IR101   70.5   IR102   72.5   Aggregate   71.5
+Class:  1.0    Outcome:  Proceed to Stage 2
+-----------------------------------------------
+
+25954   Betty
+IR101   70.2   IR102   63.4   Aggregate   66.8
+Class:  2.1    Outcome:  Proceed to Stage 2
+-----------------------------------------------
+
+25622   David
+IR101   65.0   IR102   57.8   Aggregate   61.4
+Class:  2.1    Outcome:  Proceed to Stage 2
+-----------------------------------------------
+
+25218   Helen
+IR101   62.1   IR102   53.4   Aggregate   57.5
+Class:  2.2    Outcome:  Proceed to Stage 2
+-----------------------------------------------
+
+25196   Jim
+IR101   52.0   IR102   49.8   Aggregate   50.9
+Class:  2.2    Outcome:  Proceed to Stage 2
+-----------------------------------------------
+
+25321   Elsie
+IR101   51.5   IR102   45.6   Aggregate   48.5
+Class:  3.0    Outcome:  Proceed to Stage 2
+-----------------------------------------------
+
+25654   Chris
+IR101   58.6   IR102   35.1   Aggregate   46.8
+Class:  3.0    Outcome:  Resit IR102
+-----------------------------------------------
+
+25147   Ian
+IR101   38.3   IR102   47.5   Aggregate   42.9
+Class:  3.0    Outcome:  Resit IR101
+-----------------------------------------------
+
+25987   Alan
+IR101   35.6   IR102   20.7   Aggregate   28.1
+Class:  Fail   Outcome:  Repeat Year
+-----------------------------------------------

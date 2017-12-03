@@ -1,0 +1,40 @@
+package ass;
+import java.awt.*;
+import javax.swing.*;
+public class BelishaBeacon extends JComponent{
+	public static void main(String[] a){
+		JFrame f = new JFrame("Belisha Beacon");
+		f.setSize(700,700);
+		f.add(new BelishaBeacon());
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.setVisible(true);
+		}
+	
+	public void paintComponent(Graphics graphics){
+		Graphics2D d=(Graphics2D) graphics;
+		//beginning the beacon creation
+		d.setColor(Color.orange);
+		d.fillOval(280,100,100,100);
+		d.setColor(Color.black);
+		d.fillRect(320, 200, 21, 50);
+		d.setColor(Color.black);
+		d.drawRect(320, 250, 20, 50);
+		d.setColor(Color.black);
+		d.fillRect(320, 300, 21, 50);
+		d.setColor(Color.black);
+		d.drawRect(320, 350, 20, 50);
+		d.setColor(Color.black);
+		d.fillRect(320, 400, 21, 50);
+		d.setColor(Color.black);
+		d.drawRect(320, 450, 20, 50);
+		d.setColor(Color.black);
+		d.fillRect(320, 500, 21, 50);
+		
+		/*
+		 * change color in the circle to show flashing? by using if statement
+		 * with the button maybe?
+		 */
+	}
+	
+
+}
